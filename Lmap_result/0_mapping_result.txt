@@ -1,0 +1,6 @@
+is_map:1
+reads_name:0
+map_quality:60
+first_map_pos_of_ref:805144
+seq:GTGCCAGGGGAACTCCCGGCAGTCCTCGTCGTTCAGCAC
+reads_len:39

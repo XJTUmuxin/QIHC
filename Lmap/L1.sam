@@ -1,0 +1,7 @@
+@HD     VN:1.0  SO:unsorted     #VN版本，比对有无sorted
+
+@SQ     SN:17   LN:83257441    ##SQ：参考序列目录。SN：参考序列名字。LN：参考序列长度
+
+@PG     ID:hisat2       PN:hisat2       VN:2.1.0        CL:/home/bio/bin/hisat2/hisat2-align-s --wrapper basic-0 -c GTGCTGAACGACGAGGACTGCCGGGAGTTCCCCTGGCAC    ##PG：program 。 ID：program record identifier 。 VN：程序版本。CL：command line
+
+0       2      17      805144  60      39M     *       0       0       GTGCCAGGGGAACTCCCGGCAGTCCTCGTCGTTCAGCAC IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII AS:i:0  Z:39    YT:Z:UU NH:i:1
